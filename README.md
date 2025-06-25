@@ -26,6 +26,14 @@ Useful for executives, sales managers, and data analysts to monitor growth and i
 - Time-series and categorical visualizations
 - Interactive filters and layout containers
 
+
+## 📸 Sales Dashboard Preview
+
+![Sales Dashboard](https://raw.githubusercontent.com/vighneshb1995/Python-Data-Analysis/main/sales_dashboard.png)
+
+
+
+
 🔗 [View Interactive Sales Dashboard](https://public.tableau.com/app/profile/vighnesh.b/viz/Sales_Analytics_17508460943380/Lv12)
 
 ---
@@ -54,6 +62,13 @@ It is ideal for entertainment analysts and content strategists to understand Net
 - Mapbox integration
 - Parameter and filter controls
 - Color-coded metrics and interactive visuals
+  
+
+## 📸 Netflix Dashboard Preview
+
+![Netflix Dashboard](https://raw.githubusercontent.com/vighneshb1995/Python-Data-Analysis/main/netflix_dashboard.png)
+
+
 
 🔗 [View Interactive Netflix Dashboard](https://public.tableau.com/app/profile/vighnesh.b/viz/NETFLIXDashboard_17153159598150/Netflix)
 

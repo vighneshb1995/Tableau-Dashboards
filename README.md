@@ -27,10 +27,9 @@ Useful for executives, sales managers, and data analysts to monitor growth and i
 - Interactive filters and layout containers
 
 
-## 📸 Sales Dashboard Preview
+## 📸 Sales Analytics Dashboard Preview
 
-![Sales Dashboard](https://raw.githubusercontent.com/vighneshb1995/Python-Data-Analysis/main/sales_dashboard.png)
-
+![Sales Analytics Dashboard](https://github.com/vighneshb1995/Tableau-Dashboards/blob/main/Sales_Analytics.png?raw=true)
 
 
 
@@ -66,7 +65,7 @@ It is ideal for entertainment analysts and content strategists to understand Net
 
 ## 📸 Netflix Dashboard Preview
 
-![Netflix Dashboard](https://raw.githubusercontent.com/vighneshb1995/Python-Data-Analysis/main/netflix_dashboard.png)
+![Netflix Dashboard](https://github.com/vighneshb1995/Tableau-Dashboards/blob/main/Netflix.png?raw=true)
 
 
 
